@@ -8,7 +8,7 @@
     <TargetFrameworks>net45</TargetFrameworks>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>Piksel.HockeySDK.WinForms</PackageId>
-    <Version>4.1.6</Version>
+    <Version>4.2.0</Version>
     <Authors>Microsoft, Don Kackman</Authors>
     <Product>Piksel.HockeySDK.WinForms</Product>
     <RepositoryUrl>https://github.com/piksel/HockeySDK-Windows.git</RepositoryUrl>

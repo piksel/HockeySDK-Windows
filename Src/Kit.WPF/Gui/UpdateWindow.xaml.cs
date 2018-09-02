@@ -13,7 +13,7 @@ using System.Windows.Media;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Microsoft.HockeyApp.Gui
+namespace Piksel.HockeyApp.Gui
 {
     /// <summary>
     /// Interaction logic for UpdateWindow.xaml

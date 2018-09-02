@@ -1,5 +1,5 @@
-﻿using Microsoft.HockeyApp;
-using Microsoft.HockeyApp.Model;
+﻿using Piksel.HockeyApp;
+using Piksel.HockeyApp.Model;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Microsoft.HockeyApp
+namespace Piksel.HockeyApp
 {
     /// <summary>
     /// HockeyClient for WPF

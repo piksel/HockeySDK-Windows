@@ -1,4 +1,4 @@
-﻿using Microsoft.HockeyApp.Internal;
+﻿using Piksel.HockeyApp.Internal;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,10 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Threading;
-using Microsoft.HockeyApp.Extensibility;
-using Microsoft.HockeyApp.Services;
+using Piksel.HockeyApp.Extensibility;
+using Piksel.HockeyApp.Services;
 
-namespace Microsoft.HockeyApp
+namespace Piksel.HockeyApp
 {
     /// <summary>
     /// HockeyClientWPFExtensions class.

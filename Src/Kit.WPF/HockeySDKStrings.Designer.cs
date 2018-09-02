@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Microsoft.HockeyApp {
+namespace Piksel.HockeyApp {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Microsoft.HockeyApp {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Microsoft.HockeyApp.HockeySDKStrings", typeof(HockeySDKStrings).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Piksel.HockeyApp.HockeySDKStrings", typeof(HockeySDKStrings).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

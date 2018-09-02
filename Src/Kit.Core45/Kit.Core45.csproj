@@ -8,6 +8,16 @@
     <GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
     <TargetFrameworks>netstandard2;net45</TargetFrameworks>
     <RootNamespace>Piksel.HockeyApp</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Piksel.HockeySDK.Core</PackageId>
+    <Authors>Microsoft</Authors>
+    <Product>Piksel.HockeySDK</Product>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/piksel/HockeySDK-Windows/develop/LICENSE.txt</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/piksel/HockeySDK-Windows</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/piksel/HockeySDK-Windows/develop/icon@2x.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/piksel/HockeySDK-Windows.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Version>4.1.6</Version>
   </PropertyGroup>
   <ItemGroup>
     <Compile Remove="ComponentContextInitializer.cs" />

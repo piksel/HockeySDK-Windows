@@ -6,6 +6,16 @@
     <GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
     <GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
     <TargetFrameworks>net45</TargetFrameworks>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Piksel.HockeySDK.WinForms</PackageId>
+    <Version>4.1.6</Version>
+    <Authors>Microsoft, Don Kackman</Authors>
+    <Product>Piksel.HockeySDK.WinForms</Product>
+    <RepositoryUrl>https://github.com/piksel/HockeySDK-Windows.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageIconUrl>https://raw.githubusercontent.com/piksel/HockeySDK-Windows/develop/icon@2x.png</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/piksel/HockeySDK-Windows</PackageProjectUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/piksel/HockeySDK-Windows/develop/LICENSE.txt</PackageLicenseUrl>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' " />
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' " />

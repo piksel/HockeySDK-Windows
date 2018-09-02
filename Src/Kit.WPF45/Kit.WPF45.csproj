@@ -14,6 +14,7 @@
     <PackageIconUrl>https://raw.githubusercontent.com/piksel/HockeySDK-Windows/develop/icon@2x.png</PackageIconUrl>
     <RepositoryUrl>https://github.com/piksel/HockeySDK-Windows.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <Description>Unoffical HockeySDK fork, WPF package</Description>
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\Kit.Core45\Kit.Core45.csproj" />

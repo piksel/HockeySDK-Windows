@@ -16,6 +16,7 @@
     <PackageIconUrl>https://raw.githubusercontent.com/piksel/HockeySDK-Windows/develop/icon@2x.png</PackageIconUrl>
     <PackageProjectUrl>https://github.com/piksel/HockeySDK-Windows</PackageProjectUrl>
     <PackageLicenseUrl>https://raw.githubusercontent.com/piksel/HockeySDK-Windows/develop/LICENSE.txt</PackageLicenseUrl>
+    <Description>Unoffical HockeySDK fork, WinForms package</Description>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' " />
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' " />

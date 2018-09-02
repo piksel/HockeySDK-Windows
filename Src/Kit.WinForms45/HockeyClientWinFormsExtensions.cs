@@ -131,5 +131,29 @@ namespace Piksel.HockeyApp
             bool result = await @this.AsInternal().SendCrashesAndDeleteAfterwardsAsync().ConfigureAwait(false);
             return result;
         }
+
+        #region Feedback
+        /// <summary>
+        /// Creates a new Feedback-Thread. Thread is stored on the server with the first message.
+        /// </summary>
+        /// <returns></returns>
+        public static IFeedbackThread CreateFeedbackThread(this IHockeyClient @this)
+        {
+            return @this.AsInternal().CreateNewFeedbackThread();
+        }
+
+        /// <summary>
+        /// Opens a Feedback-Thread on the server.
+        /// </summary>
+        /// <param name="this">The this.</param>
+        /// <param name="feedbackToken">A guid which identifies the Feedback-Thread</param>
+        /// <returns>
+        /// The Feedback-Thread or, if not found or delete, null.
+        /// </returns>
+        public static async Task<IFeedbackThread> OpenFeedbackThreadAsync(this IHockeyClient @this, string feedbackToken)
+        {
+            return await @this.AsInternal().OpenFeedbackThreadAsync(feedbackToken);
+        }
+        #endregion
     }
 }

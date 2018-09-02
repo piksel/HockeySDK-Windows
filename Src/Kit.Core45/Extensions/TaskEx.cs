@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Microsoft.HockeyApp.Extensions
+namespace Piksel.HockeyApp.Extensions
 {
     /// <summary>
     /// TaskEx class to have a consistens interface with .net4.0

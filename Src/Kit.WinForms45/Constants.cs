@@ -1,4 +1,4 @@
-﻿namespace Microsoft.HockeyApp
+﻿namespace Piksel.HockeyApp
 {
     internal class HockeyConstants
     {

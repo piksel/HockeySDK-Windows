@@ -5,9 +5,9 @@ using System.IO.IsolatedStorage;
 using System.Reflection;
 using System.Threading.Tasks;
 
-using Microsoft.HockeyApp.Services.Device;
+using Piksel.HockeyApp.Services.Device;
 
-namespace Microsoft.HockeyApp
+namespace Piksel.HockeyApp
 {
     /// <summary>
     /// HockeyPlatformHelper for WinForms.

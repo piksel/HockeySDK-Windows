@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Microsoft.HockeyApp.Model
+namespace Piksel.HockeyApp.Model
 {
     /// <summary>
     /// Namespace for HockeyApp SDK models

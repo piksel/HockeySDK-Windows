@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Microsoft.HockeyApp.Extensions
+namespace Piksel.HockeyApp.Extensions
 {
     /// <summary>
     /// static extension class

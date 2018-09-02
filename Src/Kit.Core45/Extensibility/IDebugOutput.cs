@@ -2,7 +2,7 @@
 // Copyright © Microsoft. All Rights Reserved.
 // </copyright>
 
-namespace Microsoft.HockeyApp.Extensibility
+namespace Piksel.HockeyApp.Extensibility
 {
     /// <summary>
     /// Encapsulates method call that has to be compiled with DEBUG compiler constant.

@@ -2,7 +2,7 @@
 using System.Windows.Forms;
 using System.Globalization;
 
-namespace Microsoft.HockeyApp.Services
+namespace Piksel.HockeyApp.Services
 {
     sealed class ApplicationService : IApplicationService
     {

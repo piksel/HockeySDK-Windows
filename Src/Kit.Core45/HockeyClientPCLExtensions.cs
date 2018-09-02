@@ -1,4 +1,4 @@
-﻿namespace Microsoft.HockeyApp.PCL
+﻿namespace Piksel.HockeyApp.PCL
 {
     
     /// <summary>

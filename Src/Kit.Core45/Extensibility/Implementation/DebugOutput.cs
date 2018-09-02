@@ -4,7 +4,7 @@
 
 #define DEBUG
 
-namespace Microsoft.HockeyApp.Extensibility.Implementation
+namespace Piksel.HockeyApp.Extensibility.Implementation
 {
     using System.Diagnostics;
     using Extensibility;

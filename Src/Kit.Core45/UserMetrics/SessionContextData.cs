@@ -17,7 +17,7 @@
 #if DATAPLATFORM
 namespace Microsoft.Developer.Analytics.DataCollection.Model.v2
 #else
-namespace Microsoft.HockeyApp.Extensibility.Implementation.External
+namespace Piksel.HockeyApp.Extensibility.Implementation.External
 #endif
 {
     using System;

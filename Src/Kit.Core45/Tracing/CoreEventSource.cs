@@ -1,4 +1,4 @@
-﻿namespace Microsoft.HockeyApp.Extensibility.Implementation.Tracing
+﻿namespace Piksel.HockeyApp.Extensibility.Implementation.Tracing
 {
     using Services;
     using System.Diagnostics;

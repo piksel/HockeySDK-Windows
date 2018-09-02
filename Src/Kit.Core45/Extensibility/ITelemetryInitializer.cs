@@ -1,4 +1,4 @@
-﻿namespace Microsoft.HockeyApp.Extensibility
+﻿namespace Piksel.HockeyApp.Extensibility
 {
     using Channel;
     using DataContracts;

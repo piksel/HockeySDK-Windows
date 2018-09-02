@@ -7,7 +7,7 @@ using System.Security.Cryptography;
 using System.Net.NetworkInformation;
 using Microsoft.Win32;
 
-namespace Microsoft.HockeyApp.Services.Device
+namespace Piksel.HockeyApp.Services.Device
 {
     /// <summary>
     /// The device service

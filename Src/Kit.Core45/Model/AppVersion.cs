@@ -6,9 +6,9 @@ using System.Runtime.Serialization;
 using System.Runtime.Serialization.Json;
 using System.Text;
 using System.Threading.Tasks;
-using Microsoft.HockeyApp.Extensions;
+using Piksel.HockeyApp.Extensions;
 
-namespace Microsoft.HockeyApp.Model
+namespace Piksel.HockeyApp.Model
 {
     /// <summary>
     /// represents a version from an hockeyapp app

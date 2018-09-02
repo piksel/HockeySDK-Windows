@@ -1,4 +1,4 @@
-﻿namespace Microsoft.HockeyApp.Internal
+﻿namespace Piksel.HockeyApp.Internal
 {
     using Model;
     using System;

@@ -1,4 +1,4 @@
-﻿namespace Microsoft.HockeyApp.Channel
+﻿namespace Piksel.HockeyApp.Channel
 {
     using System;
     using System.Collections.Generic;

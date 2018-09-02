@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Text;
-using Microsoft.HockeyApp.Extensions;
+using Piksel.HockeyApp.Extensions;
 using System.Threading.Tasks;
 using System.Runtime.Serialization;
 using System.IO;
 using System.Runtime.Serialization.Json;
-using Microsoft.HockeyApp.Exceptions;
+using Piksel.HockeyApp.Exceptions;
 
-namespace Microsoft.HockeyApp.Model
+namespace Piksel.HockeyApp.Model
 {
     internal class AuthType
     {

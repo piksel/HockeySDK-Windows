@@ -1,7 +1,7 @@
-﻿namespace Microsoft.HockeyApp.DataContracts
+﻿namespace Piksel.HockeyApp.DataContracts
 {
     using System.Collections.Generic;
-    using Microsoft.HockeyApp.Extensibility.Implementation.External;
+    using Piksel.HockeyApp.Extensibility.Implementation.External;
 
     /// <summary>
     /// The type used to specify frame properties of a crash.

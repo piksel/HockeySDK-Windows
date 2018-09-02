@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Globalization;
 using System.Text.RegularExpressions;
-using Microsoft.HockeyApp.Internal;
+using Piksel.HockeyApp.Internal;
 
-namespace Microsoft.HockeyApp
+namespace Piksel.HockeyApp
 {
     /// <summary>
     /// static extension class for utility extensions

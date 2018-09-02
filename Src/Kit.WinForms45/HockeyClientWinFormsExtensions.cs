@@ -2,10 +2,10 @@
 using System.Threading.Tasks;
 using System.Collections.Generic;
 
-using Microsoft.HockeyApp.Services;
-using Microsoft.HockeyApp.Services.Device;
+using Piksel.HockeyApp.Services;
+using Piksel.HockeyApp.Services.Device;
 
-namespace Microsoft.HockeyApp
+namespace Piksel.HockeyApp
 {
     /// <summary>
     /// HockeyClient Extension for WinForms.

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Microsoft.HockeyApp
+namespace Piksel.HockeyApp
 {
     /// <summary>
     /// interface for a hockeyapp feedback thread

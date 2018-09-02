@@ -1,4 +1,4 @@
-﻿namespace Microsoft.HockeyApp.Services
+﻿namespace Piksel.HockeyApp.Services
 {
     using System;
     using System.Windows.Forms;

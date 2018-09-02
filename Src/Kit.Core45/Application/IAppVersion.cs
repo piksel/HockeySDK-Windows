@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Microsoft.HockeyApp
+namespace Piksel.HockeyApp
 {
     /// <summary>
     /// interface for an app version

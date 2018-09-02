@@ -2,7 +2,7 @@
 // Copyright © Microsoft. All Rights Reserved.
 // </copyright>
 
-namespace Microsoft.HockeyApp.Services
+namespace Piksel.HockeyApp.Services
 {
     using System;
     using System.Collections.Generic;

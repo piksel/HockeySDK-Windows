@@ -2,7 +2,7 @@
 // Copyright © Microsoft. All Rights Reserved.
 // </copyright>
 
-namespace Microsoft.HockeyApp.Extensibility.Implementation.Platform
+namespace Piksel.HockeyApp.Extensibility.Implementation.Platform
 {
     using Services;
 
@@ -20,7 +20,7 @@ namespace Microsoft.HockeyApp.Extensibility.Implementation.Platform
         {
             get
             {
-                return current ?? (current = Microsoft.HockeyApp.ServiceLocator.GetService<IPlatformService>());
+                return current ?? (current = Piksel.HockeyApp.ServiceLocator.GetService<IPlatformService>());
             }
 
             set

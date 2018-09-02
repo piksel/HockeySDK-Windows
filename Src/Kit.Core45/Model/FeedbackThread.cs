@@ -5,11 +5,11 @@ using System.Net;
 using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
-using Microsoft.HockeyApp.Extensions;
+using Piksel.HockeyApp.Extensions;
 using System.IO;
-using Microsoft.HockeyApp.Internal;
+using Piksel.HockeyApp.Internal;
 
-namespace Microsoft.HockeyApp.Model
+namespace Piksel.HockeyApp.Model
 {
     /// <summary>
     /// represents a feedback thread on hockeyapp with one or more messages

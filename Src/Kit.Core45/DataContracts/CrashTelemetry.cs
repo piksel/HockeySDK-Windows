@@ -1,11 +1,11 @@
-﻿namespace Microsoft.HockeyApp.DataContracts
+﻿namespace Piksel.HockeyApp.DataContracts
 {
     using System;
     using System.Collections.Generic;
     using System.Threading;
-    using Microsoft.HockeyApp.Channel;
-    using Microsoft.HockeyApp.Extensibility.Implementation;
-    using Microsoft.HockeyApp.Extensibility.Implementation.External;
+    using Piksel.HockeyApp.Channel;
+    using Piksel.HockeyApp.Extensibility.Implementation;
+    using Piksel.HockeyApp.Extensibility.Implementation.External;
 
     /// <summary>
     /// Telemetry type used to track crashes.

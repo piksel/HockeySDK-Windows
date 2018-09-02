@@ -1,4 +1,4 @@
-namespace Microsoft.HockeyApp.Services.Device
+namespace Piksel.HockeyApp.Services.Device
 {
     using System;
     using System.Runtime.InteropServices;

@@ -1,4 +1,4 @@
-﻿namespace Microsoft.HockeyApp.Extensibility
+﻿namespace Piksel.HockeyApp.Extensibility
 {
     /// <summary>
     /// Represents an object that supports initialization from <see cref="TelemetryConfiguration"/>.

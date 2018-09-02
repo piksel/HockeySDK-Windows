@@ -1,5 +1,5 @@
 ﻿using System.IO;
-using Microsoft.HockeyApp.Extensions;
+using Piksel.HockeyApp.Extensions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +8,7 @@ using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Microsoft.HockeyApp.Model
+namespace Piksel.HockeyApp.Model
 {
     /// <summary>
     /// represents an attachment to a feedback message

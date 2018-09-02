@@ -1,4 +1,4 @@
-﻿namespace Microsoft.HockeyApp.Services
+﻿namespace Piksel.HockeyApp.Services
 {
     using Channel;
     using DataContracts;

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Microsoft.HockeyApp.Extensions
+namespace Piksel.HockeyApp.Extensions
 {
     /// <summary>
     /// Helper class to implement async locking

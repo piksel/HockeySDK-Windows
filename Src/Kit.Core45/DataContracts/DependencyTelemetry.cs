@@ -1,4 +1,4 @@
-namespace Microsoft.HockeyApp.DataContracts
+namespace Piksel.HockeyApp.DataContracts
 {
     using System;
     using System.Collections.Generic;

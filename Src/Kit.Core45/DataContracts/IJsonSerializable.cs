@@ -1,4 +1,4 @@
-namespace Microsoft.HockeyApp.DataContracts
+namespace Piksel.HockeyApp.DataContracts
 {
     /// <summary>
     /// Represents objects that support serialization to JSON.

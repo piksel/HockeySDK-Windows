@@ -1,4 +1,4 @@
-﻿namespace Microsoft.HockeyApp.Extensibility.Windows
+﻿namespace Piksel.HockeyApp.Extensibility.Windows
 {
     using System;
     using System.Collections.Generic;

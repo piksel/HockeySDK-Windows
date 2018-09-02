@@ -4,9 +4,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net;
 using System.IO;
-using Microsoft.HockeyApp.Extensions;
+using Piksel.HockeyApp.Extensions;
 using System.Runtime.Serialization.Json;
-using Microsoft.HockeyApp.Exceptions;
+using Piksel.HockeyApp.Exceptions;
 using System.Runtime.CompilerServices;
 
 // Need to provide InternalsVisibleTo System.Runtime.Serialization to allow serialization of internal DataContracts/DataMembers in partial trust.
@@ -15,7 +15,7 @@ using System.Runtime.CompilerServices;
 [assembly: InternalsVisibleTo("System.Runtime.Serialization" + AssemblyInfo.SystemRuntimeSerializationPublicKey)]
 [assembly: InternalsVisibleTo("System.Runtime.Serialization.Json" + AssemblyInfo.SystemRuntimeSerializationPublicKey)]
 
-namespace Microsoft.HockeyApp.Model
+namespace Piksel.HockeyApp.Model
 {
     /// <summary>
     /// represents data of a crashlog

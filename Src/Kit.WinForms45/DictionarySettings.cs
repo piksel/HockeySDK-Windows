@@ -7,7 +7,7 @@ using System.Windows.Forms;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Json;
 
-namespace Microsoft.HockeyApp
+namespace Piksel.HockeyApp
 {
     /// <summary>
     /// Dictionary based app settings that HockeyApp.Core needs to store user id and session data

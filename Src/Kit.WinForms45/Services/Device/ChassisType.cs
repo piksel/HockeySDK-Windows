@@ -1,4 +1,4 @@
-﻿namespace Microsoft.HockeyApp.Services.Device
+﻿namespace Piksel.HockeyApp.Services.Device
 {
     /// <summary>
     /// The chassis type according to https://technet.microsoft.com/en-us/library/ee156537.aspx

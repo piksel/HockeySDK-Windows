@@ -1,4 +1,4 @@
-﻿namespace Microsoft.HockeyApp.DataContracts
+﻿namespace Piksel.HockeyApp.DataContracts
 {
     internal sealed class Attachments
     {

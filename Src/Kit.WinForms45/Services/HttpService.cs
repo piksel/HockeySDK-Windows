@@ -5,7 +5,7 @@ using System.IO.Compression;
 using System.Net.Http;
 using System.Net.Http.Headers;
 
-namespace Microsoft.HockeyApp.Services
+namespace Piksel.HockeyApp.Services
 {
     sealed class WinFormsHttpService : IHttpService
     {

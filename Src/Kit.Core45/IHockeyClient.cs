@@ -1,8 +1,8 @@
-﻿using Microsoft.HockeyApp.DataContracts;
+﻿using Piksel.HockeyApp.DataContracts;
 using System;
 using System.Collections.Generic;
 
-namespace Microsoft.HockeyApp
+namespace Piksel.HockeyApp
 {
     /// <summary>
     /// Public Interface for HockeyClient. Used by static extension methods in platform-specific SDKs

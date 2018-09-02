@@ -6,11 +6,11 @@
 // * Copyright (c) Microsoft Corporation.  All rights reserved.
 // **************************************************************
 
-using Microsoft.HockeyApp.Util;
+using Piksel.HockeyApp.Util;
 using System;
 using System.Text;
 
-namespace Microsoft.HockeyApp
+namespace Piksel.HockeyApp
 {
 
     // Simple struct for the (a,b,c,d) which is used to compute the mesage digest.    
@@ -46,7 +46,7 @@ namespace Microsoft.HockeyApp
     }
 }
 
-namespace Microsoft.HockeyApp.Util
+namespace Piksel.HockeyApp.Util
 {
     /// <summary>
     /// MD5 digest algorithm

@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 
-namespace Microsoft.HockeyApp.Services
+namespace Piksel.HockeyApp.Services
 {
     // some place holders while I figure out if the PEReader/Native image debug info is accessible in a similar manner as the UWP implementaiton
     // TODO - repo case

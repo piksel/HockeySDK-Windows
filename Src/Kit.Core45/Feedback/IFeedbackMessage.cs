@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-namespace Microsoft.HockeyApp
+namespace Piksel.HockeyApp
 {
     /// <summary>
     /// Represents a message in a feedback thread

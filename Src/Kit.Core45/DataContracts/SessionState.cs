@@ -1,4 +1,4 @@
-﻿namespace Microsoft.HockeyApp.DataContracts
+﻿namespace Piksel.HockeyApp.DataContracts
 {
     /// <summary>
     /// Contains values that identify state of a user session.

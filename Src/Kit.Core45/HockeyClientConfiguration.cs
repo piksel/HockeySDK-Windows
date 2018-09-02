@@ -1,4 +1,4 @@
-﻿namespace Microsoft.HockeyApp
+﻿namespace Piksel.HockeyApp
 {
     using System;
 

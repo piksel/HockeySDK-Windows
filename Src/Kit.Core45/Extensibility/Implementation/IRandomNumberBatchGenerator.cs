@@ -1,4 +1,4 @@
-﻿namespace Microsoft.HockeyApp.Extensibility.Implementation
+﻿namespace Piksel.HockeyApp.Extensibility.Implementation
 {
     /// <summary>
     /// Interface for random number generator capable of producing 

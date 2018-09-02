@@ -7,10 +7,10 @@ using System.Runtime.Serialization;
 using System.Runtime.Serialization.Json;
 using System.Text;
 using System.Threading.Tasks;
-using Microsoft.HockeyApp.Extensions;
+using Piksel.HockeyApp.Extensions;
 using System.Diagnostics;
 
-namespace Microsoft.HockeyApp.Model
+namespace Piksel.HockeyApp.Model
 {
     /// <summary>
     /// representation of a feedback response with a single message (returned after posting the message)

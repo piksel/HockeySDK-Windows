@@ -1,6 +1,6 @@
-﻿namespace Microsoft.HockeyApp.DataContracts
+﻿namespace Piksel.HockeyApp.DataContracts
 {
-    using Microsoft.HockeyApp;
+    using Piksel.HockeyApp;
     using System;
     using System.Collections.Generic;
     using System.Threading;

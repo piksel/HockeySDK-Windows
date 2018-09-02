@@ -4,11 +4,11 @@ using System.Diagnostics;
 using System.IO;
 using System.Reflection;
 
-using Microsoft.HockeyApp.Extensibility;
-using Microsoft.HockeyApp.Extensibility.Implementation.External;
-using Microsoft.HockeyApp.Extensibility.Implementation;
+using Piksel.HockeyApp.Extensibility;
+using Piksel.HockeyApp.Extensibility.Implementation.External;
+using Piksel.HockeyApp.Extensibility.Implementation;
 
-namespace Microsoft.HockeyApp.Services
+namespace Piksel.HockeyApp.Services
 {
     sealed class PlatformService : IPlatformService
     {

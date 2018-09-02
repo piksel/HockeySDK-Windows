@@ -3,7 +3,7 @@ using System.Linq;
 using System.Management;
 using System.Globalization;
 
-namespace Microsoft.HockeyApp.Services.Device
+namespace Piksel.HockeyApp.Services.Device
 {
     /// <summary>
     /// Provides basic access to Wmi properties

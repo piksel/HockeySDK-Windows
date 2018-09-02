@@ -4,7 +4,7 @@
 // </copyright>
 //------------------------------------------------------------------------------
 
-namespace Microsoft.HockeyApp.Extensibility.Implementation
+namespace Piksel.HockeyApp.Extensibility.Implementation
 {
     using System;
     using System.Threading;

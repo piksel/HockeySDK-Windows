@@ -141,6 +141,7 @@
             }
 
             previousSessionId = null;
+            previousSessionEnd = default(DateTimeOffset);
             return false;
         }
         

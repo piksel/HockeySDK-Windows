@@ -1,6 +1,6 @@
 ﻿internal static class AssemblyInfo
 {
-#if DEBUG
+#if DEBUG || true
     // Internal key; assemblies are fully signed.
     public const string PublicKey = "";
     public const string MoqPublicKey = "";

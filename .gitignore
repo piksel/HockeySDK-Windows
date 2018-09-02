@@ -165,3 +165,4 @@ $RECYCLE.BIN/
 Web/PerformanceTests_Instrumented/
 .PreReleaseVersion
 /Src/!.bat
+.vs/
